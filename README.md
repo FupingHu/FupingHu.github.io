@@ -20,14 +20,14 @@ Welcome to my personal research page! I am a doctoral student at **Jiangnan Univ
 5. Yang H, Gu M, Zhao R, **Hu F**, Deng Z. XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation[J]. arXiv preprint arXiv:2411.13932, 2024.
 
 ## Projects
-1. Research on Explainable Intelligent Methods for Graph Data (KYCX22_2314), Jiangsu Province Graduate Research and Practice Innovation Program, 2022-2023, amount: RMB 15,000, ***host***, completed. (Provincial vertical project)
-2. Rule-driven highly interpretable graph learning model and its system development based on MindSpore (CAAIXSJLJJ-2021-011A), China Artificial Intelligence Association-Huawei MindSpore Academic Award Fund, 2021-2022, participated, completed.
-3. Graph-structured data and vector-data compatible learning fuzzy system driven by enzyme function prediction and empirical evidence (62176105), National Natural Science Foundation of China, 2022-2025, participated.
-4. Intelligent Modeling and Multi-objective Optimization for Fermented Food Safety Assessment (2022YFE0112400), National Key R&D Program, 2022-2027, Participant.
+1. Research on Explainable Intelligent Methods for Graph Data (KYCX22_2314), **Jiangsu Province Graduate Research and Practice Innovation Program**, 2022-2023, amount: RMB 15,000, ***host***, completed. (Provincial vertical project)
+2. Rule-driven highly interpretable graph learning model and its system development based on MindSpore (CAAIXSJLJJ-2021-011A), **China Artificial Intelligence Association-Huawei MindSpore Academic Award Fund**, 2021-2022, participated, completed.
+3. Graph-structured data and vector-data compatible learning fuzzy system driven by enzyme function prediction and empirical evidence (62176105), **National Natural Science Foundation of China**, 2022-2025, participated.
+4. Intelligent Modeling and Multi-objective Optimization for Fermented Food Safety Assessment (2022YFE0112400), **National Key R&D Program**, 2022-2027, Participant.
 
 ## Work Experience
 1. 2016.07-2017.10, Beijing Yuxin Technology Group Co., Ltd., Payment and Clearing Division, Software Development Engineer.
-2. 2017.10-2018.11, CSIC 716th Research Institute-Lianyungang Jerry DeepSoft Technology Co., Ltd., Software Division, Intelligent Manufacturing Software Development Engineer.
+2. 2017.10-2018.11, CSIC 716th Research Institute-Lianyungang Jari DeepSoft Technology Co., Ltd., Software Division, Intelligent Manufacturing Software Development Engineer.
 
 ## Academic Position
 1. 2023-Present, Reviewer of ***IEEE Transactions on Fuzzy Systems*** (Chinese Academy of Sciences, Zone 1, IF=10.7, CCF-B)
