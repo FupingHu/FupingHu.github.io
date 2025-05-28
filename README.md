@@ -17,6 +17,7 @@ Welcome to my personal research page! I am a doctoral student at **Jiangnan Univ
 2. **Hu F**, Deng Z, Xie Z, Zhang T, Choi K, Zhang F, Wang S. GFS-node: Graph Fuzzy Systems for Node Prediction[J]. ***IEEE Transactions on Fuzzy Systems***, 2024, 32(12): 6822-6834.
 3. Tang W, Deng Z, Zhou H, Zhang W, **Hu F** et al. MVDINET: A Novel Multi-Level Enzyme Function Predictor With Multi-View Deep Interactive Learning[J]. ***IEEE/ACM Transactions on Computational Biology and Bioinformatics***, 2023, 21(1): 84-94.
 4. Zhang Z, Yu G, Deng Z, Luo C, Cai C, Zhang W, **Hu F**, et al. SEFP: Structure-based Enzyme Function Prediction[J]. ***IEEE Transactions on Computational Biology and Bioinformatics***, 2025.
+5. Yang H, Gu M, Zhao R, **Hu F**, Deng Z. XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation[J]. arXiv preprint arXiv:2411.13932, 2024.
 
 ## Projects
 1. Research on Explainable Intelligent Methods for Graph Data (KYCX22_2314), Jiangsu Province Graduate Research and Practice Innovation Program, 2022-2023, amount: RMB 15,000, ***host***, completed. (Provincial vertical project)
