@@ -1,6 +1,6 @@
 # Fuping Hu 's Personal Research Page
 
-Welcome to my personal research page! I am a doctoral student at **Jiangnan University**, and my supervisor is Professor **Zhaohong Deng**. My research focuses on **Fuzzy Systems** and **Graph Fuzzy Systems**. Here, you can find more information about my research interests, publications, projects, and contact details.
+Welcome to my personal research page! I am a doctoral student at **Jiangnan University**, and my supervisor is Professor [**Zhaohong Deng**](http://ai.jiangnan.edu.cn/info/1013/1548.htm). My research focuses on **Fuzzy Systems** and **Graph Fuzzy Systems**. Here, you can find more information about my research interests, publications, projects, and contact details.
 
 ## Basic Information
 
