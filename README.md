@@ -26,7 +26,7 @@ Welcome to my personal research page! I am a doctoral student at **Jiangnan Univ
 4. Intelligent Modeling and Multi-objective Optimization for Fermented Food Safety Assessment (2022YFE0112400), **National Key R&D Program**, 2022-2027, Participant.
 
 ## Work Experience
-1. 2016.07-2017.10, Beijing Yuxin Technology Group Co., Ltd., Payment and Clearing Division, Software Development Engineer.
+1. 2016.07-2017.10, Beijing Yusys Technology Group Co., Ltd., Payment and Clearing Division, Software Development Engineer.
 2. 2017.10-2018.11, CSIC 716th Research Institute-Lianyungang Jari DeepSoft Technology Co., Ltd., Software Division, Intelligent Manufacturing Software Development Engineer.
 
 ## Academic Position
