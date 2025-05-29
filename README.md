@@ -11,7 +11,7 @@ Welcome to my personal research page! I am a doctoral student at **Jiangnan Univ
 - **Research Area**: Fuzzy Systems.
 - **Email**: hfping@stu.jiangnan.edu.cn.
 
-## Published Papers
+## Publications
 
 1. **Hu F**, Deng Z, Wang G, Xie Z, Choi K, Wang S. Graph Fuzzy System for the Whole Graph Prediction: Concepts, Models, and Algorithms[J]. ***IEEE Transactions on Fuzzy Systems***, 2023, 32(3): 1383-1398.
 2. **Hu F**, Deng Z, Xie Z, Zhang T, Choi K, Zhang F, Wang S. GFS-node: Graph Fuzzy Systems for Node Prediction[J]. ***IEEE Transactions on Fuzzy Systems***, 2024, 32(12): 6822-6834.
